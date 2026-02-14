@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pod-backups/culinary-album/build/static/css/main.5d4ed1a3.css",
+    "main.js": "/pod-backups/culinary-album/build/static/js/main.d6f5b434.js",
+    "index.html": "/pod-backups/culinary-album/build/index.html",
+    "main.5d4ed1a3.css.map": "/pod-backups/culinary-album/build/static/css/main.5d4ed1a3.css.map",
+    "main.d6f5b434.js.map": "/pod-backups/culinary-album/build/static/js/main.d6f5b434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d4ed1a3.css",
+    "static/js/main.d6f5b434.js"
+  ]
+}
